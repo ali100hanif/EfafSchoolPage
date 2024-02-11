@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EfafSchoolPage/static/css/main.82f52abc.css",
-    "main.js": "/EfafSchoolPage/static/js/main.65e385f4.js",
+    "main.js": "/EfafSchoolPage/static/js/main.57c95735.js",
     "static/js/787.73705030.chunk.js": "/EfafSchoolPage/static/js/787.73705030.chunk.js",
     "static/media/efaf.jpg": "/EfafSchoolPage/static/media/efaf.99368c774305120e71b1.jpg",
     "static/media/Vazir-Medium.ttf": "/EfafSchoolPage/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
@@ -48,14 +48,13 @@
     "static/media/8.JPG": "/EfafSchoolPage/static/media/8.4683d8c1bc6f8409cd3f.JPG",
     "static/media/7.JPG": "/EfafSchoolPage/static/media/7.ee696111570f558c2cab.JPG",
     "static/media/9.JPG": "/EfafSchoolPage/static/media/9.0d12622ea0701200e223.JPG",
-    "static/media/logo.svg": "/EfafSchoolPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/EfafSchoolPage/index.html",
     "main.82f52abc.css.map": "/EfafSchoolPage/static/css/main.82f52abc.css.map",
-    "main.65e385f4.js.map": "/EfafSchoolPage/static/js/main.65e385f4.js.map",
+    "main.57c95735.js.map": "/EfafSchoolPage/static/js/main.57c95735.js.map",
     "787.73705030.chunk.js.map": "/EfafSchoolPage/static/js/787.73705030.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82f52abc.css",
-    "static/js/main.65e385f4.js"
+    "static/js/main.57c95735.js"
   ]
 }

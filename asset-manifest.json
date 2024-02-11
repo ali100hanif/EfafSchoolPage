@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EfafSchoolPage/static/css/main.fdbf8d8b.css",
-    "main.js": "/EfafSchoolPage/static/js/main.c075548e.js",
+    "main.css": "/EfafSchoolPage/static/css/main.82f52abc.css",
+    "main.js": "/EfafSchoolPage/static/js/main.65e385f4.js",
     "static/js/787.73705030.chunk.js": "/EfafSchoolPage/static/js/787.73705030.chunk.js",
     "static/media/efaf.jpg": "/EfafSchoolPage/static/media/efaf.99368c774305120e71b1.jpg",
     "static/media/Vazir-Medium.ttf": "/EfafSchoolPage/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
@@ -9,8 +9,11 @@
     "static/media/efaf1.jfif": "/EfafSchoolPage/static/media/efaf1.d029796679a86993f022.jfif",
     "static/media/efaf2.jfif": "/EfafSchoolPage/static/media/efaf2.d806251667179f1d03b1.jfif",
     "static/media/efaf4.jfif": "/EfafSchoolPage/static/media/efaf4.11b9c30bfecd50cb9252.jfif",
+    "static/media/efaf6.jpg": "/EfafSchoolPage/static/media/efaf6.90fbf6ea9751911279ff.jpg",
     "static/media/Vazir-Medium.woff": "/EfafSchoolPage/static/media/Vazir-Medium.e5c2bbe6a0c77d2cf489.woff",
+    "static/media/efaf55.jpg": "/EfafSchoolPage/static/media/efaf55.d91aaa1800499510e5f5.jpg",
     "static/media/Vazir-Medium.woff2": "/EfafSchoolPage/static/media/Vazir-Medium.276befd1faf18a3d9afb.woff2",
+    "static/media/publish.JPG": "/EfafSchoolPage/static/media/publish.061a31687a2ee8950422.JPG",
     "static/media/proo13.jpg": "/EfafSchoolPage/static/media/proo13.686a892da05c5bcca792.jpg",
     "static/media/proo25.jpg": "/EfafSchoolPage/static/media/proo25.02d7bc9f5aedeaff989a.jpg",
     "static/media/proo14.jpg": "/EfafSchoolPage/static/media/proo14.264e74dd9e77958b357d.jpg",
@@ -37,6 +40,7 @@
     "static/media/pr.jfif": "/EfafSchoolPage/static/media/pr.9cfa4c87fd7fe517a437.jfif",
     "static/media/pr6.jfif": "/EfafSchoolPage/static/media/pr6.3775ee920bdf58da2cab.jfif",
     "static/media/proo3.jpg": "/EfafSchoolPage/static/media/proo3.87d1e2cc6e9258fbfe0f.jpg",
+    "static/media/proo20.jpg": "/EfafSchoolPage/static/media/proo20.1af3e83be9165fa0b880.jpg",
     "static/media/proo11.jpg": "/EfafSchoolPage/static/media/proo11.180ec83f5c2a3e89f37c.jpg",
     "static/media/proo19.jpg": "/EfafSchoolPage/static/media/proo19.d25c48f29f649e150cc6.jpg",
     "static/media/proo10.jpg": "/EfafSchoolPage/static/media/proo10.a100cc179e4fd3556492.jpg",
@@ -46,12 +50,12 @@
     "static/media/9.JPG": "/EfafSchoolPage/static/media/9.0d12622ea0701200e223.JPG",
     "static/media/logo.svg": "/EfafSchoolPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/EfafSchoolPage/index.html",
-    "main.fdbf8d8b.css.map": "/EfafSchoolPage/static/css/main.fdbf8d8b.css.map",
-    "main.c075548e.js.map": "/EfafSchoolPage/static/js/main.c075548e.js.map",
+    "main.82f52abc.css.map": "/EfafSchoolPage/static/css/main.82f52abc.css.map",
+    "main.65e385f4.js.map": "/EfafSchoolPage/static/js/main.65e385f4.js.map",
     "787.73705030.chunk.js.map": "/EfafSchoolPage/static/js/787.73705030.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fdbf8d8b.css",
-    "static/js/main.c075548e.js"
+    "static/css/main.82f52abc.css",
+    "static/js/main.65e385f4.js"
   ]
 }
